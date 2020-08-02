@@ -4,7 +4,7 @@
    Full-Stack Java & Angular developer
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/r%C3%A9mi-bleuse-676a68b7/">
+  <a href="https://www.linkedin.com/in/r%C3%A9mi-bleuse-676a68b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
 </p>
@@ -23,8 +23,7 @@
    - <img height="19" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">&nbsp;&nbsp;&nbsp;Flutter
    - <img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">&nbsp;&nbsp;React
    - <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-1920px-Vue.js_Logo_2.svg.png">&nbsp;&nbsp;Vue.js
-
- - <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg">&nbsp;&nbsp;Japanese culture & language lover
+   - <img height="15" src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/japan_flag.svg">&nbsp;&nbsp;Japanese language & culture
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 

@@ -9,9 +9,6 @@
   </a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rbleuse.rbleuse)
-<br />
-
 <p align="center">
   <h3> I'm 9 years old experience Full-Stack developer from France.</h3>
 </p>
@@ -23,11 +20,11 @@
    - <img height="19" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">&nbsp;&nbsp;&nbsp;Flutter
    - <img height="20" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">&nbsp;&nbsp;React
    - <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-1920px-Vue.js_Logo_2.svg.png">&nbsp;&nbsp;Vue.js
-   - <img height="15" src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/japan_flag.svg">&nbsp;&nbsp;Japanese language & culture
+   - <img height="13" src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/japan_flag.svg">&nbsp;&nbsp;Japanese language & culture
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=rbleuse&&show_icons=true&theme=radical"/>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=default" alt="rbleuse GitHub stats" />
   </a>
 </p>
 

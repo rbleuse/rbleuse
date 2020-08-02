@@ -1,16 +1,9 @@
-### Hi there, I'm Rémi
-
-<p align="center">
-   Full-Stack Java & Angular developer
-</p>
-<p align="center">
+### Hi there, I'm Rémi, 9 years old experience Full-Stack developer from France.
+<br>
+<p>
   <a href="https://www.linkedin.com/in/r%C3%A9mi-bleuse-676a68b7/" target="_blank">
     <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
-</p>
-
-<p align="center">
-  <h3> I'm 9 years old experience Full-Stack developer from France.</h3>
 </p>
 
  - 🌱 Learning Kotlin <img width="18" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg">

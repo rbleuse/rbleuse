@@ -1,24 +1,8 @@
-## Hi there, I'm Rémi, 9 years old experience Full-Stack developer from France
+### Hi there, I'm Rémi, 9 years old experience Full-Stack developer from France
 
-<br>
 <p>
   <a href="https://www.linkedin.com/in/r%C3%A9mi-bleuse-676a68b7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
-  </a>
-</p>
-
-- 🌱 Learning Kotlin&nbsp;&nbsp;<img width="18" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg">
-
-- <img width="20" src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/interest.svg"> Interested into
-  - <img width="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png">&nbsp;&nbsp;GraphQL
-  - <img width="18" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">&nbsp;&nbsp;Flutter
-  - <img width="18" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">&nbsp;&nbsp;React
-  - <img width="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/langfr-1920px-Vue.js_Logo_2.svg.png">&nbsp;&nbsp;Vue.js
-  - <img width="20" src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/japan_flag.svg">&nbsp;&nbsp;Japanese language & culture
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=default" alt="rbleuse GitHub stats" />
+    <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/linkedin.svg" alt="linkedin" style="margin:4px">
   </a>
 </p>
 
@@ -28,20 +12,54 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img height="40" src="https://www.eazycollect.co.uk/images/java-logo400.png" alt="java" style="margin:4px" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" style="margin:4px" />
 </p>
 
 ### Frameworks
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/spring.svg" alt="spring" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" style="margin:4px" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" style="margin:4px" />
+</p>
+
+### Database
+
+<p align="center">
+  <img height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" style="margin:4px" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" style="margin:4px" />
+</p>
+
+### Devops
+
+<p align="center">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" style="margin:4px" />
+  <img height="40" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" style="margin:4px" />
+  <img height="40" src="https://www.sonarqube.org/logos/index/sonarqube-logo@2x.png" alt="sonar" style="margin:4px" />
 </p>
 
 ### Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/rbleuse/rbleuse/master/svg/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
+  <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" style="margin:4px" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" style="margin:4px" />
+</p>
+
+### Interested into
+
+<p align="center">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" style="margin:4px" alt="kotlin" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="margin:4px" alt="graphql" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="margin:4px" alt="flutter" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin:4px" alt="react" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="margin:4px" alt="vuejs" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" style="margin:4px" alt="svelte" />
+</p>
+
+*************
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=default" alt="rbleuse GitHub stats" />
+  </a>
 </p>

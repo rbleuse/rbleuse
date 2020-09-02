@@ -8,57 +8,46 @@
 
 *************
 
-#### Languages
+#### Languages & Frameworks
 
 <p align="center">
-  <img height="40" src="https://www.eazycollect.co.uk/images/java-logo400.png" alt="java" style="margin:6px" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" style="margin:6px" />
+  <img height="40" src="https://www.eazycollect.co.uk/images/java-logo400.png" alt="java" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" />
+  <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" />
 </p>
 
-#### Frameworks
+#### Databases
 
 <p align="center">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" style="margin:6px" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" style="margin:6px" />
-</p>
-
-#### Database
-
-<p align="center">
-  <img height="40" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" style="margin:6px" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" style="margin:6px" />
-</p>
-
-#### Devops
-
-<p align="center">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" style="margin:6px" />
-  <img height="40" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" style="margin:6px" />
+  <img width="50" src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" />
 </p>
 
 #### Tools
 
 <p align="center">
-  <img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" style="margin:6px" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" style="margin:6px" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/GitHub_font_awesome.svg/1024px-GitHub_font_awesome.svg.png" alt="github" />
+  <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" />
+  <img height="35" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="jenkins" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" />
+  <img height="40" src="https://rancher.com/img/logo-square.png" alt="rancher" />
 </p>
 
 #### Interested into
 
 <p align="center">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" style="margin:6px" alt="kotlin" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" style="margin:6px" alt="graphql" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="margin:6px" alt="flutter" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="margin:6px" alt="react" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" style="margin:6px" alt="vuejs" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" style="margin:6px" alt="svelte" />
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" />
 </p>
 
 *************
-<details>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=default" alt="rbleuse GitHub stats" />
-    </a>
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=default" alt="rbleuse GitHub stats" />
+  </a>
+</p>

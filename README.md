@@ -11,7 +11,7 @@
 #### Languages & Frameworks
 
 <p align="center">
-  <img height="40" src="https://www.eazycollect.co.uk/images/java-logo400.png" alt="java" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" />
   <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" />
@@ -27,9 +27,11 @@
 #### Tools
 
 <p align="center">
+  <img height="40" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/GitHub_font_awesome.svg/1024px-GitHub_font_awesome.svg.png" alt="github" />
-  <img height="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" />
-  <img height="35" src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="jenkins" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/800px-Jenkins_logo.svg.png" alt="jenkins" />
+  <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sonarqube-48x200.png" alt="sonar" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" />
   <img height="40" src="https://rancher.com/img/logo-square.png" alt="rancher" />
 </p>

@@ -20,7 +20,7 @@
 #### Databases
 
 <p align="center">
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/oracle/oracle-original.svg" alt="oracle" />
+  <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/oracle/oracle-original.svg" alt="oracle" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" />
 </p>
 

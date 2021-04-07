@@ -28,8 +28,10 @@
 
 <p align="center">
   <img height="40" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij IDEA" />
+  <img height="40" src="https://developer.android.com/studio/images/studio-icon.svg" alt="android studio" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/GitHub_font_awesome.svg/1024px-GitHub_font_awesome.svg.png" alt="github" />
+  <img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/GitHub_font_awesome.svg/1024px-GitHub_font_awesome.svg.png" alt="github" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/800px-Jenkins_logo.svg.png" alt="jenkins" />
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sonarqube-48x200.png" alt="sonar" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" />

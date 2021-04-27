@@ -48,11 +48,16 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vuejs" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" />
+  <img height="40" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="mongodb" />
 </p>
 
 *************
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=default" alt="rbleuse GitHub stats" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=react" alt="rbleuse GitHub stats" />
   </a>
 </p>
+
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rbleuse)

@@ -36,7 +36,7 @@
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/800px-Jenkins_logo.svg.png" alt="jenkins" />
   <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Sonarqube-48x200.png" alt="sonar" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" />
-  <img height="40" src="https://rancher.com/img/logo-square.png" alt="rancher" />
+  <img height="40" src="https://thiagobarradas.gallerycdn.vsassets.io/extensions/thiagobarradas/rancher/1.1.7/1569367462170/Microsoft.VisualStudio.Services.Icons.Default" alt="rancher" />
 </p>
 
 #### Interested into
@@ -54,7 +54,7 @@
 *************
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rbleuse&show_icons=true&theme=react" alt="rbleuse GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbleuse&show_icons=true&theme=react" alt="rbleuse GitHub stats" />
   </a>
 </p>
 

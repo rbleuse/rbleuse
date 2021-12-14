@@ -12,6 +12,7 @@
 
 <p align="center">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="java" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="spring-boot" />
   <img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" />
@@ -30,7 +31,7 @@
   <img height="40" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij IDEA" />
-  <img height="40" src="https://developer.android.com/studio/images/studio-icon.svg" alt="android studio" />
+  <!-- <img height="40" src="https://developer.android.com/studio/images/studio-icon.svg" alt="android studio" /> -->
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/91/20180806170714%21Octicons-mark-github.svg" alt="github" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="gitlab" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/800px-Jenkins_logo.svg.png" alt="jenkins" />
@@ -42,7 +43,6 @@
 #### Interested into
 
 <p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" alt="graphql" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" />
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" />

@@ -1,4 +1,4 @@
-### Hi there, I'm Rémi, 9 years old experience Full-Stack developer from France
+### Hi there, I'm Rémi, 9 years experience Full-Stack developer from France, currently living in Japan
 
 <p>
   <a href="https://www.linkedin.com/in/r%C3%A9mi-bleuse-676a68b7/" target="_blank">
@@ -31,7 +31,6 @@
   <img height="40" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" alt="eclipse" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij IDEA" />
-  <!-- <img height="40" src="https://developer.android.com/studio/images/studio-icon.svg" alt="android studio" /> -->
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/9/91/20180806170714%21Octicons-mark-github.svg" alt="github" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" alt="gitlab" />
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/800px-Jenkins_logo.svg.png" alt="jenkins" />
